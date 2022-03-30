@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhillySteve
 - 👀 I’m interested in Excel VBA, IBM Websphere, Powershell, Windows NT kernel...
-- 🌱 I’m currently learning how to get Excel & Powershell to call DB2 stored procedures.
+- 🌱 I’m currently learning how to get Excel & Powershell to call DB2 stored procedures. I am also trying to learn how to build a simple app in Websphere to call DB2 stored procedures.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...stevewis2007@gmail.com
 
